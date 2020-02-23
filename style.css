@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    color: #666;
+    font-family: 'Montserrat', ;
+}
+h1, h2, h3{
+    color: #333;
+}
+h1{
+    font-size: 35px;
+    font-weight: 700;
+}
+h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+h3{
+    font-size: 25px;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    display: inline-block;
+    margin-top: 10px;
+}
+button{
+    border: none;
+}
+.section-padding {
+    padding-top: 80px;
+}
+
+.carousel-item {
+    background: #FEEAE9;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+div#banner h2 {
+    font-weight: 700;
+    color: #FF1570;
+    font-size: 35px;
+}
+
+.cat {
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.cat h1 {
+    color: #fff;
+}
+
+.cat1 {
+    background: #FFA500;
+}
+
+.cat2 {}
+
+.cat2 {
+    background: #DA70D6;
+}
+
+.cat3 {}
+
+.cat3 {
+    background: #0000FF;
+}
+
+.cat img {
+    width: 100px;
+}
+
+.card {
+    border: navajowhite;
+    box-shadow: 5px 5px 10px #eee;
+    margin-top: 25px;
+}
+
+.card-footer {
+    background: none;
+    padding-bottom: 29px;
+}
+
+.subscrive-form {
+    background: #FEEAE9;
+    padding: 70px 0;
+    border-radius: 10px;
+}
+
+.subscrive-form p {
+    font-weight: 500;
+}
+input[type="text"] {
+    padding: 8px;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    width: 230px;
+}
+button.buy-btn {
+    border-radius: 0 10px 10px 0;
+}
+footer p {
+    font-size: 17px;
+    text-align: center;
+    padding-top: 25px;
+    border-top: 1px solid #ddd;
+}
+span.navbar-toggler-icon {background: #FF438D;border-radius: 4px;}
+
+button.navbar-toggler {
+    border-color: #FF438D !important;
+}
